@@ -1,9 +1,13 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Rui
- * Date: 2017/2/27
- * Time: 23:07
- * agatha_621@163.com
- * Dies ist eine neue Datai zum Upload testen
- */
+<html>
+<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+
+</head>
+<h2>test</h2>
+<form action="word.php" method = "get">
+    give word：<input type="text" name="word"/>
+    <input type="hidden" value="search" name = "type"/>
+
+    <input type="submit" value="OK"/>
+</form>
+
+</html>
