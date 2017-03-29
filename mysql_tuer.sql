@@ -1,0 +1,2 @@
+INSERT INTO mysql.tuer (Ebene, Bereich, Raum, Status, Zeit, Anfordern, Anf_name) VALUES (1, 'ost', 1011, 'sofort', '2017-03-29 23:28:28', 2000, 'Mustermann');
+INSERT INTO mysql.tuer (Ebene, Bereich, Raum, Status, Zeit, Anfordern, Anf_name) VALUES (2, 'west', 1211, 'warten', '2017-03-29 23:05:48', 2000, 'Mustermann');
